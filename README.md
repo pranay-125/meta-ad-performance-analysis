@@ -83,10 +83,8 @@ interpretable reporting to support campaign-performance analysis?
 <h2>📊 Dashboard Preview</h2>
 
 <p align="center">
-  <img
-    src="dashboard/dashboard_screenshot.png"
-    alt="Meta Advertising Performance Dashboard preview"
-    width="100%">
+<img width="1672" height="941" alt="Meta Ad Performance Dashboard" src="https://github.com/user-attachments/assets/ad82968f-f1aa-4f80-92c0-1210352bbb5c" />
+ 
 </p>
 
 <p>
