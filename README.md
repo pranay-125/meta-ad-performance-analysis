@@ -82,7 +82,8 @@ interpretable reporting to support campaign-performance analysis?
 <h2>📊 Dashboard Preview</h2>
 
 <p align="center">
-  <img width="1920" height="1080" alt="Screenshot 2026-10-14 184008" src="https://github.com/user-attachments/assets/867600c8-3f97-4ec3-a512-9f2637a41aa3" />
+  <img width="1672" height="941" alt="Meta Ad Performance Dashboard" src="https://github.com/user-attachments/assets/a0c4a0b7-6980-428e-b9bd-296763e415e7" />
+
 </p>
 
 <p>
