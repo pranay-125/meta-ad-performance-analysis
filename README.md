@@ -459,8 +459,6 @@ Use the folders below to locate the corresponding artifacts.
       preview image, if included.</li>
   <li><b><code>required_documents/</code></b> — BRD, KPI documentation,
       domain notes, and dashboard insights, where included.</li>
-  <li><b><code>notebook/</code></b> — notebook-related project materials,
-      where included.</li>
   <li><b><code>sql queries/</code></b> — SQL-related materials, where
       included.</li>
 </ul>
